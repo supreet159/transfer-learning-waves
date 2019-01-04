@@ -1,5 +1,5 @@
 # transfer-learning-waves
-This is the implementation of my paper published in special edition Compressed Sensing in JASA https://doi.org/10.1121/1.5042240
+This is the implementation of our paper published in special edition Compressed Sensing in JASA https://doi.org/10.1121/1.5042240
 
 ![This figure shows the gist of my work](exp1.png)
 ![The figure shows the dissimilarity between two signals](exp2.PNG)
